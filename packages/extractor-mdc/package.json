@@ -1,5 +1,6 @@
 {
   "name": "@unocss/extractor-mdc",
+  "type": "module",
   "version": "0.57.7",
   "description": "UnoCSS extractor for MDC",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",

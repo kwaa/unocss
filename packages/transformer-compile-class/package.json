@@ -1,5 +1,6 @@
 {
   "name": "@unocss/transformer-compile-class",
+  "type": "module",
   "version": "0.57.7",
   "description": "Compile group of classes into one class",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",

@@ -1,5 +1,6 @@
 {
   "name": "@unocss/astro",
+  "type": "module",
   "version": "0.57.7",
   "description": "UnoCSS integration for Astro",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",

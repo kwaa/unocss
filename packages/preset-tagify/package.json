@@ -1,5 +1,6 @@
 {
   "name": "@unocss/preset-tagify",
+  "type": "module",
   "version": "0.57.7",
   "description": "Tagify preset for UnoCSS",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",

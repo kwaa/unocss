@@ -1,5 +1,6 @@
 {
   "name": "@unocss/preset-web-fonts",
+  "type": "module",
   "version": "0.57.7",
   "description": "Web Fonts support for Uno CSS",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",

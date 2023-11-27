@@ -1,5 +1,6 @@
 {
   "name": "@unocss/webpack",
+  "type": "module",
   "version": "0.57.7",
   "description": "The Webpack plugin for UnoCSS",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
