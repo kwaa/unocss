@@ -26,7 +26,7 @@
   "exports": {
     ".": {
       "import": {
-        "types": "./dist/index.d.mts",
+        "types": "./dist/index.d.ts",
         "default": "./dist/index.mjs"
       },
       "require": {
@@ -36,7 +36,7 @@
     },
     "./browser": {
       "import": {
-        "types": "./dist/browser.d.mts",
+        "types": "./dist/browser.d.ts",
         "default": "./dist/browser.mjs"
       },
       "require": {
@@ -46,7 +46,7 @@
     },
     "./core": {
       "import": {
-        "types": "./dist/core.d.mts",
+        "types": "./dist/core.d.ts",
         "default": "./dist/core.mjs"
       },
       "require": {

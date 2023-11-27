@@ -23,7 +23,7 @@
   "exports": {
     ".": {
       "import": {
-        "types": "./dist/index.d.mts",
+        "types": "./dist/index.d.ts",
         "default": "./dist/index.mjs"
       },
       "require": {
@@ -33,7 +33,7 @@
     },
     "./theme": {
       "import": {
-        "types": "./dist/theme.d.mts",
+        "types": "./dist/theme.d.ts",
         "default": "./dist/theme.mjs"
       },
       "require": {
@@ -43,7 +43,7 @@
     },
     "./variants": {
       "import": {
-        "types": "./dist/variants.d.mts",
+        "types": "./dist/variants.d.ts",
         "default": "./dist/variants.mjs"
       },
       "require": {
@@ -53,7 +53,7 @@
     },
     "./rules": {
       "import": {
-        "types": "./dist/rules.d.mts",
+        "types": "./dist/rules.d.ts",
         "default": "./dist/rules.mjs"
       },
       "require": {
@@ -63,7 +63,7 @@
     },
     "./colors": {
       "import": {
-        "types": "./dist/colors.d.mts",
+        "types": "./dist/colors.d.ts",
         "default": "./dist/colors.mjs"
       },
       "require": {
@@ -73,7 +73,7 @@
     },
     "./utils": {
       "import": {
-        "types": "./dist/utils.d.mts",
+        "types": "./dist/utils.d.ts",
         "default": "./dist/utils.mjs"
       },
       "require": {
